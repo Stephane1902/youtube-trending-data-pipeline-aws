@@ -8,7 +8,7 @@ __pycache__/
 # Archives
 *.zip
 
-# Données Kaggle volumineuses (trop lourdes pour GitHub, pas votre travail)
+# Données Kaggle volumineuses (trop lourdes pour GitHub et non pertinente pour le projet)
 data/*.csv
 
 # Fichiers système

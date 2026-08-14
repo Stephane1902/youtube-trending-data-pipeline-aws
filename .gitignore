@@ -1,0 +1,15 @@
+# Variables d'environnement (clés API, mots de passe)
+.env
+
+# Fichiers temporaires générés par Python
+__pycache__/
+*.pyc
+
+# Archives
+*.zip
+
+# Données Kaggle volumineuses (trop lourdes pour GitHub, pas votre travail)
+data/*.csv
+
+# Fichiers système
+.DS_Store

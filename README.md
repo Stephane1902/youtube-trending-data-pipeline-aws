@@ -2,7 +2,7 @@
 
 Mon premier projet de data engineering : un pipeline qui va chercher automatiquement les vidéos tendances YouTube dans 10 pays, nettoie les données, vérifie leur qualité, puis produit des tableaux d'analyse prêts à être interrogés.
 
-> Projet réalisé en suivant le tutoriel [Data Engineering Project | AWS S3, Lambda, Glue, Athena, Step Function](https://www.youtube.com/watch?v=yvAWbbQa8eE) de Darshil Parmar. J'ai reproduit son architecture pour apprendre les bases du data engineering sur AWS, puis [j'ai adapté / je détaille ci-dessous] — voir la section "Mon cheminement".
+> Projet réalisé en suivant le tutoriel [Data Engineering Project | AWS S3, Lambda, Glue, Athena, Step Function](https://www.youtube.com/watch?v=yvAWbbQa8eE) de Darshil Parmar. J'ai reproduit son architecture pour apprendre les bases du data engineering sur AWS, voir la section "Mon cheminement".
 
 ## Pourquoi ce projet
 
